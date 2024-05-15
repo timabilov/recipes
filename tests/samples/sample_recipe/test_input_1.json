@@ -1,0 +1,14 @@
+{
+   "name": "rice",
+   "ingredients": [
+      {
+         "item": "rice",
+         "quantity": 0.44,
+         "unit": "pound"
+      },
+      {
+         "item": "carrot",
+         "quantity": 2
+      }
+   ]
+}
